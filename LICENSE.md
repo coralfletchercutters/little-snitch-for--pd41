@@ -1,4 +1,4 @@
-
+advanced Little Snitch for macOS Validator | device-lock + phishing-detection offers the most advanced Little Snitch for macOS validator, with device-lock and phishing-detection.
 
 
 
